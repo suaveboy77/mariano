@@ -1,0 +1,20 @@
+p{
+    color: red
+}
+
+.navbar{
+  background-color: black;
+overflow: hidden;
+    
+}
+    .navbar a {
+    float: left;
+    color: yellow;
+    padding: 12 px;
+    margin: 0px 42px 0px 47px;
+    font-size: 35px;
+}
+
+head{
+    margin-left: 25px;
+}
